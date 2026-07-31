@@ -1,10 +1,10 @@
-- A website about Birds of Paradise (BOP)
-- Repository hosted on Github
-- Website is static, to be hosted on Github Pages or Cloudflare
-- Project includes CI/CD
+✅ A website about Birds of Paradise (BOP)
+✅ Repository hosted on Github
+✅ Website is static, to be hosted on Github Pages or Cloudflare
+✅ Project includes CI/CD
+✅ Design style is 18-19th century taxonomist, Darwin-like
+✅ Live website is at [text](https://fchristant.github.io/bop/)
 - Website tries to meet essential parts of specification.website
 - Experiment with issue management in Gitub, next an agent picking up the issue, implementing it, reviewing it
 - BOP images to be AI-generated
-- Design style is 18-19th century taxonomist, Darwin-like
 - Playwright testing
-- Live website is at [text](https://fchristant.github.io/bop/)

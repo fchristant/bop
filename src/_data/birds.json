@@ -1,0 +1,222 @@
+[
+  {
+    "binomial_name": "Astrapia mayeri",
+    "common_name": "Ribbon-tailed Astrapia",
+    "genus": "Astrapia"
+  },
+  {
+    "binomial_name": "Astrapia nigra",
+    "common_name": "Arfak Astrapia",
+    "genus": "Astrapia"
+  },
+  {
+    "binomial_name": "Astrapia rothschildi",
+    "common_name": "Huon Astrapia",
+    "genus": "Astrapia"
+  },
+  {
+    "binomial_name": "Astrapia splendidissima",
+    "common_name": "Splendid Astrapia",
+    "genus": "Astrapia"
+  },
+  {
+    "binomial_name": "Astrapia stephaniae",
+    "common_name": "Stephanie's Astrapia",
+    "genus": "Astrapia"
+  },
+  {
+    "binomial_name": "Cicinnurus regius",
+    "common_name": "King Bird-of-Paradise",
+    "genus": "Cicinnurus"
+  },
+  {
+    "binomial_name": "Diphyllodes magnificus",
+    "common_name": "Magnificent Bird-of-Paradise",
+    "genus": "Diphyllodes"
+  },
+  {
+    "binomial_name": "Diphyllodes respublica",
+    "common_name": "Wilson's Bird-of-Paradise",
+    "genus": "Diphyllodes"
+  },
+  {
+    "binomial_name": "Drepanornis albertisi",
+    "common_name": "Black-billed Sicklebill",
+    "genus": "Drepanornis"
+  },
+  {
+    "binomial_name": "Drepanornis bruijnii",
+    "common_name": "Pale-billed Sicklebill",
+    "genus": "Drepanornis"
+  },
+  {
+    "binomial_name": "Epimachus fastosus",
+    "common_name": "Black Sicklebill",
+    "genus": "Epimachus"
+  },
+  {
+    "binomial_name": "Epimachus meyeri",
+    "common_name": "Brown Sicklebill",
+    "genus": "Epimachus"
+  },
+  {
+    "binomial_name": "Lophorina latipennis",
+    "common_name": "Greater Lophorina",
+    "genus": "Lophorina"
+  },
+  {
+    "binomial_name": "Lophorina minor",
+    "common_name": "Lesser Lophorina",
+    "genus": "Lophorina"
+  },
+  {
+    "binomial_name": "Lophorina superba",
+    "common_name": "Vogelkop Lophorina",
+    "genus": "Lophorina"
+  },
+  {
+    "binomial_name": "Lycocorax obiensis",
+    "common_name": "Obi Paradise-crow",
+    "genus": "Lycocorax"
+  },
+  {
+    "binomial_name": "Lycocorax pyrrhopterus",
+    "common_name": "Halmahera Paradise-Crow",
+    "genus": "Lycocorax"
+  },
+  {
+    "binomial_name": "Manucodia ater",
+    "common_name": "Glossy-mantled Manucode",
+    "genus": "Manucodia"
+  },
+  {
+    "binomial_name": "Manucodia chalybatus",
+    "common_name": "Crinkle-collared Manucode",
+    "genus": "Manucodia"
+  },
+  {
+    "binomial_name": "Manucodia comrii",
+    "common_name": "Curl-crested Manucode",
+    "genus": "Manucodia"
+  },
+  {
+    "binomial_name": "Manucodia jobiensis",
+    "common_name": "Jobi Manucode",
+    "genus": "Manucodia"
+  },
+  {
+    "binomial_name": "Paradigalla brevicauda",
+    "common_name": "Short-tailed Paradigalla",
+    "genus": "Paradigalla"
+  },
+  {
+    "binomial_name": "Paradigalla carunculata",
+    "common_name": "Long-tailed Paradigalla",
+    "genus": "Paradigalla"
+  },
+  {
+    "binomial_name": "Paradisaea apoda",
+    "common_name": "Greater Bird-of-Paradise",
+    "genus": "Paradisaea"
+  },
+  {
+    "binomial_name": "Paradisaea decora",
+    "common_name": "Goldie's Bird-of-Paradise",
+    "genus": "Paradisaea"
+  },
+  {
+    "binomial_name": "Paradisaea guilielmi",
+    "common_name": "Emperor Bird-of-Paradise",
+    "genus": "Paradisaea"
+  },
+  {
+    "binomial_name": "Paradisaea minor",
+    "common_name": "Lesser Bird-of-Paradise",
+    "genus": "Paradisaea"
+  },
+  {
+    "binomial_name": "Paradisaea raggiana",
+    "common_name": "Raggiana Bird-of-Paradise",
+    "genus": "Paradisaea"
+  },
+  {
+    "binomial_name": "Paradisaea rubra",
+    "common_name": "Red Bird-of-Paradise",
+    "genus": "Paradisaea"
+  },
+  {
+    "binomial_name": "Paradisornis rudolphi",
+    "common_name": "Blue Bird-of-Paradise",
+    "genus": "Paradisornis"
+  },
+  {
+    "binomial_name": "Parotia berlepschi",
+    "common_name": "Bronze Parotia",
+    "genus": "Parotia"
+  },
+  {
+    "binomial_name": "Parotia carolae",
+    "common_name": "Carola's Parotia",
+    "genus": "Parotia"
+  },
+  {
+    "binomial_name": "Parotia helenae",
+    "common_name": "Eastern Parotia",
+    "genus": "Parotia"
+  },
+  {
+    "binomial_name": "Parotia lawesii",
+    "common_name": "Lawes's Parotia",
+    "genus": "Parotia"
+  },
+  {
+    "binomial_name": "Parotia sefilata",
+    "common_name": "Western Parotia",
+    "genus": "Parotia"
+  },
+  {
+    "binomial_name": "Parotia wahnesi",
+    "common_name": "Wahnes's Parotia",
+    "genus": "Parotia"
+  },
+  {
+    "binomial_name": "Phonygammus keraudrenii",
+    "common_name": "Trumpet Manucode",
+    "genus": "Phonygammus"
+  },
+  {
+    "binomial_name": "Pteridophora alberti",
+    "common_name": "King-of-Saxony Bird-of-Paradise",
+    "genus": "Pteridophora"
+  },
+  {
+    "binomial_name": "Ptiloris intercedens",
+    "common_name": "Growling Riflebird",
+    "genus": "Ptiloris"
+  },
+  {
+    "binomial_name": "Ptiloris magnificus",
+    "common_name": "Magnificent Riflebird",
+    "genus": "Ptiloris"
+  },
+  {
+    "binomial_name": "Ptiloris paradiseus",
+    "common_name": "Paradise Riflebird",
+    "genus": "Ptiloris"
+  },
+  {
+    "binomial_name": "Ptiloris victoriae",
+    "common_name": "Victoria's Riflebird",
+    "genus": "Ptiloris"
+  },
+  {
+    "binomial_name": "Seleucidis melanoleucus",
+    "common_name": "Twelve-wired Bird-of-Paradise",
+    "genus": "Seleucidis"
+  },
+  {
+    "binomial_name": "Semioptera wallacii",
+    "common_name": "Wallace's Standardwing",
+    "genus": "Semioptera"
+  }
+]

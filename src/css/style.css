@@ -119,16 +119,8 @@ footer {
 }
 
 /* ==========================================================================
-   Demo-only helpers, used on /design to showcase the tokens above.
+   Components
    ========================================================================== */
-.swatch-row { display: flex; flex-wrap: wrap; gap: var(--space-sm); padding: 0; list-style: none; }
-.swatch { width: 7rem; font-size: var(--font-size-sm); text-align: center; }
-.swatch-color {
-  height: 4rem;
-  margin-bottom: var(--space-xs);
-  border: var(--border-width) solid var(--color-border-heavy);
-}
-
 .type-display { font-size: var(--font-size-2xl); font-style: italic; line-height: var(--line-height-heading); margin: 0 0 var(--space-sm); }
 .type-section { font-size: var(--font-size-xl); line-height: var(--line-height-heading); margin: 0 0 var(--space-sm); }
 .type-label {
@@ -145,4 +137,26 @@ footer {
   padding: var(--space-md);
   margin: var(--space-md) 0.25rem;
   background: var(--color-surface);
+}
+
+.bird-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+  gap: var(--space-md);
+  list-style: none;
+  padding: 0;
+}
+.bird-card { margin: 0; }
+.bird-card a { display: block; color: inherit; text-decoration: none; }
+.bird-card a:hover .type-section { color: var(--color-link-hover); }
+
+/* ==========================================================================
+   Demo-only helpers, used on /design to showcase the tokens above.
+   ========================================================================== */
+.swatch-row { display: flex; flex-wrap: wrap; gap: var(--space-sm); padding: 0; list-style: none; }
+.swatch { width: 7rem; font-size: var(--font-size-sm); text-align: center; }
+.swatch-color {
+  height: 4rem;
+  margin-bottom: var(--space-xs);
+  border: var(--border-width) solid var(--color-border-heavy);
 }

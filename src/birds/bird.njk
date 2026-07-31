@@ -1,0 +1,15 @@
+---
+pagination:
+  data: birds
+  size: 1
+  alias: bird
+permalink: "/birds/{{ bird.binomial_name | slugify }}/"
+layout: base.njk
+eleventyComputed:
+  title: "{{ bird.common_name }} — Birds of Paradise"
+---
+<h1>{{ bird.common_name }}</h1>
+
+<p><em>{{ bird.binomial_name }}</em> &middot; genus {{ bird.genus }}</p>
+
+<p><a href="{{ '/birds/' | url }}">&larr; Back to all birds</a></p>
