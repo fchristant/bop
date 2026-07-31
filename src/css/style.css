@@ -150,6 +150,8 @@ footer {
 .bird-card a { display: block; color: inherit; text-decoration: none; }
 .bird-card a:hover .type-section { color: var(--color-link-hover); }
 
+.distribution-map { display: block; width: 100%; height: auto; }
+
 /* ==========================================================================
    Demo-only helpers, used on /design to showcase the tokens above.
    ========================================================================== */

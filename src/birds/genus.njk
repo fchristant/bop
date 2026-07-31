@@ -1,0 +1,21 @@
+---
+pagination:
+  data: genera
+  size: 1
+  alias: genus
+permalink: "/birds/genus/{{ genus.name | slugify }}/"
+layout: base.njk
+eleventyComputed:
+  title: "Genus {{ genus.name }} ({{ genus.count }} species) — Birds of Paradise"
+---
+<h1>Genus {{ genus.name }} ({{ genus.count }} species)</h1>
+
+<ul class="bird-grid">
+  {% for bird in birds %}
+  {% if bird.genus == genus.name %}
+  {% include "bird-card.njk" %}
+  {% endif %}
+  {% endfor %}
+</ul>
+
+<p><a href="{{ '/birds/' | url }}">&larr; Back to all birds</a></p>

@@ -3,17 +3,12 @@ layout: base.njk
 title: Birds — Birds of Paradise
 permalink: /birds/
 ---
-<h1>Birds</h1>
+<h1>Birds-of-Paradise</h1>
 
 <p>{{ birds.length }} species of Paradisaeidae.</p>
 
 <ul class="bird-grid">
-  {% for bird in birds %}
-  <li class="plate bird-card">
-    <a href="{{ ('/birds/' + (bird.binomial_name | slugify) + '/') | url }}">
-      <p class="type-section">{{ bird.common_name }}</p>
-      <p class="type-label"><em>{{ bird.binomial_name }}</em></p>
-    </a>
-  </li>
+  {% for bird in birds | sort(attribute="common_name") %}
+  {% include "bird-card.njk" %}
   {% endfor %}
 </ul>

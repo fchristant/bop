@@ -2,221 +2,373 @@
   {
     "binomial_name": "Astrapia mayeri",
     "common_name": "Ribbon-tailed Astrapia",
-    "genus": "Astrapia"
+    "genus": "Astrapia",
+    "countries": [
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Astrapia nigra",
     "common_name": "Arfak Astrapia",
-    "genus": "Astrapia"
+    "genus": "Astrapia",
+    "countries": [
+      "Indonesia"
+    ]
   },
   {
     "binomial_name": "Astrapia rothschildi",
     "common_name": "Huon Astrapia",
-    "genus": "Astrapia"
+    "genus": "Astrapia",
+    "countries": [
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Astrapia splendidissima",
     "common_name": "Splendid Astrapia",
-    "genus": "Astrapia"
+    "genus": "Astrapia",
+    "countries": [
+      "Indonesia",
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Astrapia stephaniae",
     "common_name": "Stephanie's Astrapia",
-    "genus": "Astrapia"
+    "genus": "Astrapia",
+    "countries": [
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Cicinnurus regius",
     "common_name": "King Bird-of-Paradise",
-    "genus": "Cicinnurus"
+    "genus": "Cicinnurus",
+    "countries": [
+      "Indonesia",
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Diphyllodes magnificus",
     "common_name": "Magnificent Bird-of-Paradise",
-    "genus": "Diphyllodes"
+    "genus": "Diphyllodes",
+    "countries": [
+      "Indonesia",
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Diphyllodes respublica",
     "common_name": "Wilson's Bird-of-Paradise",
-    "genus": "Diphyllodes"
+    "genus": "Diphyllodes",
+    "countries": [
+      "Indonesia"
+    ]
   },
   {
     "binomial_name": "Drepanornis albertisi",
     "common_name": "Black-billed Sicklebill",
-    "genus": "Drepanornis"
+    "genus": "Drepanornis",
+    "countries": [
+      "Indonesia",
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Drepanornis bruijnii",
     "common_name": "Pale-billed Sicklebill",
-    "genus": "Drepanornis"
+    "genus": "Drepanornis",
+    "countries": [
+      "Indonesia"
+    ]
   },
   {
     "binomial_name": "Epimachus fastosus",
     "common_name": "Black Sicklebill",
-    "genus": "Epimachus"
+    "genus": "Epimachus",
+    "countries": [
+      "Indonesia",
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Epimachus meyeri",
     "common_name": "Brown Sicklebill",
-    "genus": "Epimachus"
+    "genus": "Epimachus",
+    "countries": [
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Lophorina latipennis",
     "common_name": "Greater Lophorina",
-    "genus": "Lophorina"
+    "genus": "Lophorina",
+    "countries": [
+      "Indonesia",
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Lophorina minor",
     "common_name": "Lesser Lophorina",
-    "genus": "Lophorina"
+    "genus": "Lophorina",
+    "countries": [
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Lophorina superba",
     "common_name": "Vogelkop Lophorina",
-    "genus": "Lophorina"
+    "genus": "Lophorina",
+    "countries": [
+      "Indonesia",
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Lycocorax obiensis",
     "common_name": "Obi Paradise-crow",
-    "genus": "Lycocorax"
+    "genus": "Lycocorax",
+    "countries": [
+      "Indonesia"
+    ]
   },
   {
     "binomial_name": "Lycocorax pyrrhopterus",
     "common_name": "Halmahera Paradise-Crow",
-    "genus": "Lycocorax"
+    "genus": "Lycocorax",
+    "countries": [
+      "Indonesia"
+    ]
   },
   {
     "binomial_name": "Manucodia ater",
     "common_name": "Glossy-mantled Manucode",
-    "genus": "Manucodia"
+    "genus": "Manucodia",
+    "countries": [
+      "Indonesia",
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Manucodia chalybatus",
     "common_name": "Crinkle-collared Manucode",
-    "genus": "Manucodia"
+    "genus": "Manucodia",
+    "countries": [
+      "Indonesia",
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Manucodia comrii",
     "common_name": "Curl-crested Manucode",
-    "genus": "Manucodia"
+    "genus": "Manucodia",
+    "countries": [
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Manucodia jobiensis",
     "common_name": "Jobi Manucode",
-    "genus": "Manucodia"
+    "genus": "Manucodia",
+    "countries": [
+      "Indonesia",
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Paradigalla brevicauda",
     "common_name": "Short-tailed Paradigalla",
-    "genus": "Paradigalla"
+    "genus": "Paradigalla",
+    "countries": [
+      "Indonesia",
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Paradigalla carunculata",
     "common_name": "Long-tailed Paradigalla",
-    "genus": "Paradigalla"
+    "genus": "Paradigalla",
+    "countries": [
+      "Indonesia"
+    ]
   },
   {
     "binomial_name": "Paradisaea apoda",
     "common_name": "Greater Bird-of-Paradise",
-    "genus": "Paradisaea"
+    "genus": "Paradisaea",
+    "countries": [
+      "Indonesia",
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Paradisaea decora",
     "common_name": "Goldie's Bird-of-Paradise",
-    "genus": "Paradisaea"
+    "genus": "Paradisaea",
+    "countries": [
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Paradisaea guilielmi",
     "common_name": "Emperor Bird-of-Paradise",
-    "genus": "Paradisaea"
+    "genus": "Paradisaea",
+    "countries": [
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Paradisaea minor",
     "common_name": "Lesser Bird-of-Paradise",
-    "genus": "Paradisaea"
+    "genus": "Paradisaea",
+    "countries": [
+      "Indonesia",
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Paradisaea raggiana",
     "common_name": "Raggiana Bird-of-Paradise",
-    "genus": "Paradisaea"
+    "genus": "Paradisaea",
+    "countries": [
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Paradisaea rubra",
     "common_name": "Red Bird-of-Paradise",
-    "genus": "Paradisaea"
+    "genus": "Paradisaea",
+    "countries": [
+      "Indonesia"
+    ]
   },
   {
     "binomial_name": "Paradisornis rudolphi",
     "common_name": "Blue Bird-of-Paradise",
-    "genus": "Paradisornis"
+    "genus": "Paradisornis",
+    "countries": [
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Parotia berlepschi",
     "common_name": "Bronze Parotia",
-    "genus": "Parotia"
+    "genus": "Parotia",
+    "countries": [
+      "Indonesia"
+    ]
   },
   {
     "binomial_name": "Parotia carolae",
     "common_name": "Carola's Parotia",
-    "genus": "Parotia"
+    "genus": "Parotia",
+    "countries": [
+      "Indonesia",
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Parotia helenae",
     "common_name": "Eastern Parotia",
-    "genus": "Parotia"
+    "genus": "Parotia",
+    "countries": [
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Parotia lawesii",
     "common_name": "Lawes's Parotia",
-    "genus": "Parotia"
+    "genus": "Parotia",
+    "countries": [
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Parotia sefilata",
     "common_name": "Western Parotia",
-    "genus": "Parotia"
+    "genus": "Parotia",
+    "countries": [
+      "Indonesia"
+    ]
   },
   {
     "binomial_name": "Parotia wahnesi",
     "common_name": "Wahnes's Parotia",
-    "genus": "Parotia"
+    "genus": "Parotia",
+    "countries": [
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Phonygammus keraudrenii",
     "common_name": "Trumpet Manucode",
-    "genus": "Phonygammus"
+    "genus": "Phonygammus",
+    "countries": [
+      "Australia",
+      "Indonesia",
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Pteridophora alberti",
     "common_name": "King-of-Saxony Bird-of-Paradise",
-    "genus": "Pteridophora"
+    "genus": "Pteridophora",
+    "countries": [
+      "Indonesia",
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Ptiloris intercedens",
     "common_name": "Growling Riflebird",
-    "genus": "Ptiloris"
+    "genus": "Ptiloris",
+    "countries": [
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Ptiloris magnificus",
     "common_name": "Magnificent Riflebird",
-    "genus": "Ptiloris"
+    "genus": "Ptiloris",
+    "countries": [
+      "Australia",
+      "Indonesia",
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Ptiloris paradiseus",
     "common_name": "Paradise Riflebird",
-    "genus": "Ptiloris"
+    "genus": "Ptiloris",
+    "countries": [
+      "Australia"
+    ]
   },
   {
     "binomial_name": "Ptiloris victoriae",
     "common_name": "Victoria's Riflebird",
-    "genus": "Ptiloris"
+    "genus": "Ptiloris",
+    "countries": [
+      "Australia"
+    ]
   },
   {
     "binomial_name": "Seleucidis melanoleucus",
     "common_name": "Twelve-wired Bird-of-Paradise",
-    "genus": "Seleucidis"
+    "genus": "Seleucidis",
+    "countries": [
+      "Indonesia",
+      "Papua New Guinea"
+    ]
   },
   {
     "binomial_name": "Semioptera wallacii",
     "common_name": "Wallace's Standardwing",
-    "genus": "Semioptera"
+    "genus": "Semioptera",
+    "countries": [
+      "Indonesia"
+    ]
   }
 ]

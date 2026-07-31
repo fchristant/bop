@@ -10,6 +10,17 @@ eleventyComputed:
 ---
 <h1>{{ bird.common_name }}</h1>
 
-<p><em>{{ bird.binomial_name }}</em> &middot; genus {{ bird.genus }}</p>
+<p><em>{{ bird.binomial_name }}</em> &middot; genus <a href="{{ ('/birds/genus/' + (bird.genus | slugify) + '/') | url }}">{{ bird.genus }}</a></p>
+
+<div class="plate">
+  <img class="distribution-map" src="{{ ('/images/maps/' + (bird.binomial_name | slugify) + '.svg') | url }}" alt="Distribution map of {{ bird.common_name }}, based on GBIF occurrence records">
+  <p class="type-label">Distribution, based on GBIF occurrence records</p>
+  <p>
+    Found in:
+    {% for country in bird.countries %}
+    <a href="{{ ('/birds/country/' + (country | slugify) + '/') | url }}">{{ country }}</a>{% if not loop.last %}, {% endif %}
+    {% endfor %}
+  </p>
+</div>
 
 <p><a href="{{ '/birds/' | url }}">&larr; Back to all birds</a></p>

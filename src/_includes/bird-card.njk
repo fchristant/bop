@@ -1,0 +1,6 @@
+  <li class="plate bird-card">
+    <a href="{{ ('/birds/' + (bird.binomial_name | slugify) + '/') | url }}">
+      <p class="type-section">{{ bird.common_name }}</p>
+      <p class="type-label"><em>{{ bird.binomial_name }}</em></p>
+    </a>
+  </li>

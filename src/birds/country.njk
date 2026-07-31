@@ -1,0 +1,21 @@
+---
+pagination:
+  data: countries
+  size: 1
+  alias: country
+permalink: "/birds/country/{{ country.name | slugify }}/"
+layout: base.njk
+eleventyComputed:
+  title: "Birds of {{ country.name }} ({{ country.count }} species) — Birds of Paradise"
+---
+<h1>Birds of {{ country.name }} ({{ country.count }} species)</h1>
+
+<ul class="bird-grid">
+  {% for bird in birds %}
+  {% if country.name in bird.countries %}
+  {% include "bird-card.njk" %}
+  {% endif %}
+  {% endfor %}
+</ul>
+
+<p><a href="{{ '/birds/' | url }}">&larr; Back to all birds</a></p>
