@@ -7,3 +7,4 @@
 - BOP images to be AI-generated
 - Design style is 18-19th century taxonomist, Darwin-like
 - Playwright testing
+- Live website is at [text](https://fchristant.github.io/bop/)

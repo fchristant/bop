@@ -4,14 +4,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ title or "Birds of Paradise" }}</title>
-  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
 </head>
 <body>
   <header>
-    <a href="/">Birds of Paradise</a>
+    <a href="{{ '/' | url }}">Birds of Paradise</a>
     <nav>
-      <a href="/">Home</a>
-      <a href="/design/">Design</a>
+      <a href="{{ '/' | url }}">Home</a>
+      <a href="{{ '/design/' | url }}">Design</a>
     </nav>
   </header>
   <main>
