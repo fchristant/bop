@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title or "Birds of Paradise" }}</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header>
+    <a href="/">Birds of Paradise</a>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/design/">Design</a>
+    </nav>
+  </header>
+  <main>
+    {{ content | safe }}
+  </main>
+  <footer>
+    <hr>
+    <p>A field guide to the Paradisaeidae.</p>
+  </footer>
+</body>
+</html>
