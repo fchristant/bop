@@ -27,7 +27,7 @@
   --font-size-2xl: 2.25rem;
   --line-height-body: 1.65;
   --line-height-heading: 1.2;
-  --letter-spacing-label: 0.08em;
+  --letter-spacing-label: 0.03em;
 
   /* Space */
   --space-xs: 0.5rem;
@@ -48,6 +48,9 @@
 * { box-sizing: border-box; }
 
 body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   margin: 0;
   padding: var(--space-lg) var(--space-md);
   max-width: 42rem;
@@ -58,6 +61,8 @@ body {
   font-size: var(--font-size-base);
   line-height: var(--line-height-body);
 }
+
+main { flex: 1 0 auto; }
 
 .skip-link {
   position: absolute;
@@ -83,7 +88,7 @@ h1 { font-size: var(--font-size-2xl); font-style: italic; }
 h2 { font-size: var(--font-size-xl); }
 h3 {
   font-size: var(--font-size-sm);
-  text-transform: uppercase;
+  font-style: italic;
   letter-spacing: var(--letter-spacing-label);
   color: var(--color-ink-muted);
 }
@@ -96,7 +101,6 @@ button, .button {
   display: inline-block;
   font-family: inherit;
   font-size: var(--font-size-sm);
-  text-transform: uppercase;
   letter-spacing: var(--letter-spacing-label);
   background: var(--color-ink);
   color: var(--color-bg);
@@ -141,7 +145,6 @@ footer {
 .type-section { font-size: var(--font-size-xl); line-height: var(--line-height-heading); margin: 0 0 var(--space-sm); }
 .type-label {
   font-size: var(--font-size-sm);
-  text-transform: uppercase;
   letter-spacing: var(--letter-spacing-label);
   color: var(--color-ink-muted);
   margin: 0 0 var(--space-sm);
