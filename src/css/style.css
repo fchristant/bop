@@ -14,7 +14,7 @@
   --color-border-heavy: #3d2f22;
   --color-link: #7a3b2e;
   --color-link-hover: #591f16;
-  --color-link-visited: #8a5a4a;
+  --color-link-visited: #6d4433;
   --color-accent: #45592f;
   --color-gold: #ab8a3f;
 
@@ -59,6 +59,20 @@ body {
   line-height: var(--line-height-body);
 }
 
+.skip-link {
+  position: absolute;
+  inset-block-start: -3rem;
+  inset-inline-start: var(--space-xs);
+  z-index: 10;
+  padding: 0.6em 1.4em;
+  background: var(--color-ink);
+  color: var(--color-bg);
+  text-decoration: none;
+}
+.skip-link:focus {
+  inset-block-start: var(--space-xs);
+}
+
 h1, h2, h3 {
   line-height: var(--line-height-heading);
   margin-top: var(--space-lg);
@@ -95,6 +109,8 @@ button:hover, .button:hover {
   background: var(--color-bg);
   color: var(--color-ink);
 }
+a.button:visited { color: var(--color-bg); }
+a.button:visited:hover { color: var(--color-ink); }
 
 hr {
   border: none;

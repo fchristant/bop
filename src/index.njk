@@ -1,0 +1,45 @@
+---
+layout: base.njk
+title: Birds of Paradise
+---
+<h1>Birds-of-Paradise</h1>
+
+<p>A field guide to the Paradisaeidae.</p>
+
+<section>
+  <h2>Species</h2>
+  <ul class="bird-grid">
+    {% for bird in birds | sort(attribute="common_name") | limit(12) %}
+    {% include "bird-card.njk" %}
+    {% endfor %}
+  </ul>
+  <p><a class="button" href="{{ '/birds/' | url }}">View all species</a></p>
+</section>
+
+<section>
+  <h2>Genus</h2>
+  <ul class="bird-grid">
+    {% for genus in genera %}
+    <li class="plate bird-card">
+      <a href="{{ ('/birds/genus/' + (genus.name | slugify) + '/') | url }}">
+        <p class="type-section"><span lang="la">{{ genus.name }}</span></p>
+        <p class="type-label">{{ genus.count }} species</p>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section>
+  <h2>Country</h2>
+  <ul class="bird-grid">
+    {% for country in countries %}
+    <li class="plate bird-card">
+      <a href="{{ ('/birds/country/' + (country.name | slugify) + '/') | url }}">
+        <p class="type-section">{{ country.name }}</p>
+        <p class="type-label">{{ country.count }} species</p>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

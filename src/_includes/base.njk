@@ -7,15 +7,15 @@
   <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
 </head>
 <body>
+  <a class="skip-link" href="#main">Skip to main content</a>
   <header>
-    <a href="{{ '/' | url }}">Birds-of-Paradise</a>
+    <span>Birds-of-Paradise</span>
     <nav>
       <a href="{{ '/' | url }}">Home</a>
       <a href="{{ '/birds/' | url }}">Birds</a>
-      <a href="{{ '/design/' | url }}">Design</a>
     </nav>
   </header>
-  <main>
+  <main id="main" tabindex="-1">
     {{ content | safe }}
   </main>
   <footer>
@@ -25,5 +25,6 @@
     <p class="type-label">Bird sound recordings courtesy of <a href="https://xeno-canto.org/">Xeno-canto</a> contributors, individually credited on each species page.</p>
   </footer>
   <script src="{{ '/js/audio-player.js' | url }}" defer></script>
+  <script src="{{ '/js/back-link.js' | url }}" defer></script>
 </body>
 </html>
