@@ -5,6 +5,6 @@
 ✅ Design style is 18-19th century taxonomist, Darwin-like
 ✅ Live website is at [text](https://fchristant.github.io/bop/)
 - Website tries to meet essential parts of specification.website
-- Experiment with issue management in Gitub, next an agent picking up the issue, implementing it, reviewing it
+- Experiment with issue management in Github, next an agent picking up the issue, implementing it, reviewing it (keep in mind security)
 - BOP images to be AI-generated
 - Playwright testing

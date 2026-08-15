@@ -5,7 +5,17 @@
     "genus": "Astrapia",
     "countries": [
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "astrapia-mayeri.mp3",
+      "xcId": "116116",
+      "recordist": "Marc Anderson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "url": "https://xeno-canto.org/116116",
+      "type": "flight noise",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 3.0"
+    }
   },
   {
     "binomial_name": "Astrapia nigra",
@@ -13,7 +23,17 @@
     "genus": "Astrapia",
     "countries": [
       "Indonesia"
-    ]
+    ],
+    "audio": {
+      "file": "astrapia-nigra.mp3",
+      "xcId": "155403",
+      "recordist": "Hans Matheve",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+      "url": "https://xeno-canto.org/155403",
+      "type": "call",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-ND 3.0"
+    }
   },
   {
     "binomial_name": "Astrapia rothschildi",
@@ -21,7 +41,17 @@
     "genus": "Astrapia",
     "countries": [
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "astrapia-rothschildi.mp3",
+      "xcId": "324251",
+      "recordist": "Todd Mark",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/324251",
+      "type": "call",
+      "quality": "B",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Astrapia splendidissima",
@@ -30,7 +60,17 @@
     "countries": [
       "Indonesia",
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "astrapia-splendidissima.mp3",
+      "xcId": "142146",
+      "recordist": "Frank Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "url": "https://xeno-canto.org/142146",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-ND 4.0"
+    }
   },
   {
     "binomial_name": "Astrapia stephaniae",
@@ -38,7 +78,17 @@
     "genus": "Astrapia",
     "countries": [
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "astrapia-stephaniae.mp3",
+      "xcId": "279454",
+      "recordist": "John V. Moore",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/279454",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Cicinnurus regius",
@@ -47,7 +97,17 @@
     "countries": [
       "Indonesia",
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "cicinnurus-regius.mp3",
+      "xcId": "496983",
+      "recordist": "Peter Ericsson",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/496983",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Diphyllodes magnificus",
@@ -56,7 +116,17 @@
     "countries": [
       "Indonesia",
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "diphyllodes-magnificus.mp3",
+      "xcId": "319741",
+      "recordist": "Robson Silva e Silva",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/319741",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Diphyllodes respublica",
@@ -64,7 +134,17 @@
     "genus": "Diphyllodes",
     "countries": [
       "Indonesia"
-    ]
+    ],
+    "audio": {
+      "file": "diphyllodes-respublica.mp3",
+      "xcId": "23180",
+      "recordist": "Michiel de Boer",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "url": "https://xeno-canto.org/23180",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-ND 2.5"
+    }
   },
   {
     "binomial_name": "Drepanornis albertisi",
@@ -73,7 +153,17 @@
     "countries": [
       "Indonesia",
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "drepanornis-albertisi.mp3",
+      "xcId": "502594",
+      "recordist": "Ken Behrens",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/502594",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Drepanornis bruijnii",
@@ -81,7 +171,17 @@
     "genus": "Drepanornis",
     "countries": [
       "Indonesia"
-    ]
+    ],
+    "audio": {
+      "file": "drepanornis-bruijnii.mp3",
+      "xcId": "395324",
+      "recordist": "JACOB Hervé",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/395324",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Epimachus fastosus",
@@ -90,7 +190,17 @@
     "countries": [
       "Indonesia",
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "epimachus-fastosus.mp3",
+      "xcId": "163229",
+      "recordist": "Frank Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "url": "https://xeno-canto.org/163229",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-ND 4.0"
+    }
   },
   {
     "binomial_name": "Epimachus meyeri",
@@ -98,7 +208,17 @@
     "genus": "Epimachus",
     "countries": [
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "epimachus-meyeri.mp3",
+      "xcId": "279452",
+      "recordist": "John V. Moore",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/279452",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Lophorina latipennis",
@@ -107,7 +227,8 @@
     "countries": [
       "Indonesia",
       "Papua New Guinea"
-    ]
+    ],
+    "audio": null
   },
   {
     "binomial_name": "Lophorina minor",
@@ -115,7 +236,8 @@
     "genus": "Lophorina",
     "countries": [
       "Papua New Guinea"
-    ]
+    ],
+    "audio": null
   },
   {
     "binomial_name": "Lophorina superba",
@@ -124,7 +246,17 @@
     "countries": [
       "Indonesia",
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "lophorina-superba.mp3",
+      "xcId": "279378",
+      "recordist": "John V. Moore",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/279378",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Lycocorax obiensis",
@@ -132,7 +264,17 @@
     "genus": "Lycocorax",
     "countries": [
       "Indonesia"
-    ]
+    ],
+    "audio": {
+      "file": "lycocorax-obiensis.mp3",
+      "xcId": "68603",
+      "recordist": "Frank Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "url": "https://xeno-canto.org/68603",
+      "type": "song",
+      "quality": "B",
+      "licenseLabel": "CC BY-NC-ND 4.0"
+    }
   },
   {
     "binomial_name": "Lycocorax pyrrhopterus",
@@ -140,7 +282,17 @@
     "genus": "Lycocorax",
     "countries": [
       "Indonesia"
-    ]
+    ],
+    "audio": {
+      "file": "lycocorax-pyrrhopterus.mp3",
+      "xcId": "195382",
+      "recordist": "Marc Thibault",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/195382",
+      "type": "call, song, advertising call / song ?",
+      "quality": "B",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Manucodia ater",
@@ -149,7 +301,17 @@
     "countries": [
       "Indonesia",
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "manucodia-ater.wav",
+      "xcId": "972432",
+      "recordist": "Joshua Bergmark / Ornis Birding",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/972432",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Manucodia chalybatus",
@@ -158,7 +320,17 @@
     "countries": [
       "Indonesia",
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "manucodia-chalybatus.mp3",
+      "xcId": "590321",
+      "recordist": "Scott Connop",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/590321",
+      "type": "call",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Manucodia comrii",
@@ -166,7 +338,17 @@
     "genus": "Manucodia",
     "countries": [
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "manucodia-comrii.mp3",
+      "xcId": "567476",
+      "recordist": "Jason Gregg",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/567476",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Manucodia jobiensis",
@@ -175,7 +357,8 @@
     "countries": [
       "Indonesia",
       "Papua New Guinea"
-    ]
+    ],
+    "audio": null
   },
   {
     "binomial_name": "Paradigalla brevicauda",
@@ -184,7 +367,17 @@
     "countries": [
       "Indonesia",
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "paradigalla-brevicauda.wav",
+      "xcId": "1026683",
+      "recordist": "GABRIEL LEITE",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/1026683",
+      "type": "call",
+      "quality": "C",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Paradigalla carunculata",
@@ -192,7 +385,17 @@
     "genus": "Paradigalla",
     "countries": [
       "Indonesia"
-    ]
+    ],
+    "audio": {
+      "file": "paradigalla-carunculata.mp3",
+      "xcId": "26333",
+      "recordist": "Frank Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "url": "https://xeno-canto.org/26333",
+      "type": "song?",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-ND 4.0"
+    }
   },
   {
     "binomial_name": "Paradisaea apoda",
@@ -201,7 +404,17 @@
     "countries": [
       "Indonesia",
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "paradisaea-apoda.mp3",
+      "xcId": "279281",
+      "recordist": "John V. Moore",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/279281",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Paradisaea decora",
@@ -209,7 +422,17 @@
     "genus": "Paradisaea",
     "countries": [
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "paradisaea-decora.mp3",
+      "xcId": "70356",
+      "recordist": "David Gibbs",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+      "url": "https://xeno-canto.org/70356",
+      "type": "song",
+      "quality": "B",
+      "licenseLabel": "CC BY-NC-ND 2.5"
+    }
   },
   {
     "binomial_name": "Paradisaea guilielmi",
@@ -217,7 +440,17 @@
     "genus": "Paradisaea",
     "countries": [
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "paradisaea-guilielmi.wav",
+      "xcId": "957651",
+      "recordist": "Daniel Lopez-Velasco / Ornis Birding",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/957651",
+      "type": "call",
+      "quality": "B",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Paradisaea minor",
@@ -226,7 +459,17 @@
     "countries": [
       "Indonesia",
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "paradisaea-minor.mp3",
+      "xcId": "1038633",
+      "recordist": "Kelle Moreau",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/1038633",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Paradisaea raggiana",
@@ -234,7 +477,17 @@
     "genus": "Paradisaea",
     "countries": [
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "paradisaea-raggiana.mp3",
+      "xcId": "24659",
+      "recordist": "Frank Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "url": "https://xeno-canto.org/24659",
+      "type": "song, display songs",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-ND 4.0"
+    }
   },
   {
     "binomial_name": "Paradisaea rubra",
@@ -242,7 +495,17 @@
     "genus": "Paradisaea",
     "countries": [
       "Indonesia"
-    ]
+    ],
+    "audio": {
+      "file": "paradisaea-rubra.mp3",
+      "xcId": "409465",
+      "recordist": "Ross Gallardy",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/409465",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Paradisornis rudolphi",
@@ -250,7 +513,17 @@
     "genus": "Paradisornis",
     "countries": [
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "paradisornis-rudolphi.mp3",
+      "xcId": "595819",
+      "recordist": "Scott Connop",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/595819",
+      "type": "call, song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Parotia berlepschi",
@@ -258,7 +531,8 @@
     "genus": "Parotia",
     "countries": [
       "Indonesia"
-    ]
+    ],
+    "audio": null
   },
   {
     "binomial_name": "Parotia carolae",
@@ -267,7 +541,17 @@
     "countries": [
       "Indonesia",
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "parotia-carolae.mp3",
+      "xcId": "561242",
+      "recordist": "Iain Woxvold",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/561242",
+      "type": "call?",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Parotia helenae",
@@ -275,7 +559,8 @@
     "genus": "Parotia",
     "countries": [
       "Papua New Guinea"
-    ]
+    ],
+    "audio": null
   },
   {
     "binomial_name": "Parotia lawesii",
@@ -283,7 +568,17 @@
     "genus": "Parotia",
     "countries": [
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "parotia-lawesii.mp3",
+      "xcId": "595827",
+      "recordist": "Scott Connop",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/595827",
+      "type": "call, song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Parotia sefilata",
@@ -291,7 +586,17 @@
     "genus": "Parotia",
     "countries": [
       "Indonesia"
-    ]
+    ],
+    "audio": {
+      "file": "parotia-sefilata.mp3",
+      "xcId": "140747",
+      "recordist": "Bas van Balen",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "url": "https://xeno-canto.org/140747",
+      "type": "song",
+      "quality": "B",
+      "licenseLabel": "CC BY-NC-SA 3.0"
+    }
   },
   {
     "binomial_name": "Parotia wahnesi",
@@ -299,7 +604,17 @@
     "genus": "Parotia",
     "countries": [
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "parotia-wahnesi.mp3",
+      "xcId": "384381",
+      "recordist": "Jun MATSUI",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/384381",
+      "type": "call",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Phonygammus keraudrenii",
@@ -309,7 +624,17 @@
       "Australia",
       "Indonesia",
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "phonygammus-keraudrenii.mp3",
+      "xcId": "753951",
+      "recordist": "nick talbot",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/753951",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Pteridophora alberti",
@@ -318,7 +643,17 @@
     "countries": [
       "Indonesia",
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "pteridophora-alberti.mp3",
+      "xcId": "24656",
+      "recordist": "Frank Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "url": "https://xeno-canto.org/24656",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-ND 4.0"
+    }
   },
   {
     "binomial_name": "Ptiloris intercedens",
@@ -326,7 +661,17 @@
     "genus": "Ptiloris",
     "countries": [
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "ptiloris-intercedens.mp3",
+      "xcId": "409070",
+      "recordist": "Frank Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "url": "https://xeno-canto.org/409070",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-ND 4.0"
+    }
   },
   {
     "binomial_name": "Ptiloris magnificus",
@@ -336,7 +681,17 @@
       "Australia",
       "Indonesia",
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "ptiloris-magnificus.mp3",
+      "xcId": "1060234",
+      "recordist": "Kelle Moreau",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "url": "https://xeno-canto.org/1060234",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-SA 4.0"
+    }
   },
   {
     "binomial_name": "Ptiloris paradiseus",
@@ -344,7 +699,17 @@
     "genus": "Ptiloris",
     "countries": [
       "Australia"
-    ]
+    ],
+    "audio": {
+      "file": "ptiloris-paradiseus.mp3",
+      "xcId": "1087216",
+      "recordist": "Marc Anderson",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "url": "https://xeno-canto.org/1087216",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-ND 4.0"
+    }
   },
   {
     "binomial_name": "Ptiloris victoriae",
@@ -352,7 +717,17 @@
     "genus": "Ptiloris",
     "countries": [
       "Australia"
-    ]
+    ],
+    "audio": {
+      "file": "ptiloris-victoriae.mp3",
+      "xcId": "353115",
+      "recordist": "Marc Anderson",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "url": "https://xeno-canto.org/353115",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-ND 4.0"
+    }
   },
   {
     "binomial_name": "Seleucidis melanoleucus",
@@ -361,7 +736,17 @@
     "countries": [
       "Indonesia",
       "Papua New Guinea"
-    ]
+    ],
+    "audio": {
+      "file": "seleucidis-melanoleucus.mp3",
+      "xcId": "498008",
+      "recordist": "Marc Anderson",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "url": "https://xeno-canto.org/498008",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-ND 4.0"
+    }
   },
   {
     "binomial_name": "Semioptera wallacii",
@@ -369,6 +754,16 @@
     "genus": "Semioptera",
     "countries": [
       "Indonesia"
-    ]
+    ],
+    "audio": {
+      "file": "semioptera-wallacii.mp3",
+      "xcId": "193812",
+      "recordist": "Frank Lambert",
+      "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+      "url": "https://xeno-canto.org/193812",
+      "type": "song",
+      "quality": "A",
+      "licenseLabel": "CC BY-NC-ND 4.0"
+    }
   }
 ]
